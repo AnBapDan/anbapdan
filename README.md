@@ -7,7 +7,7 @@
 
 - 🎓 I hold a **BSc in Computer and Telematics Engineering**
 
-- 🎓 I am finishing **MSc in Cybersecurity**
+- 🎓 I just finished my **MSc in Cybersecurity** !!
 
 - 👯 I’m looking to collaborate on **everything! From backend developing to dApps and even IoT projects!**
 
