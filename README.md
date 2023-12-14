@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **everything! From backend developing to dApps and even IoT projects!**
 
-- 🤝 I’m looking for help with **Freelancing 😅**
+- 🤝 I’m looking for a **job**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnBapDan?tab=repositories](https://github.com/AnBapDan?tab=repositories)
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://europa.eu/europass/eportfolio/screen/share/401efd1e-3904-44f4-8e32-0f05e02bd0af?lang=pt](https://europa.eu/europass/eportfolio/screen/share/401efd1e-3904-44f4-8e32-0f05e02bd0af?lang=pt)
 
-- ⚡ Fun fact **I may or may not have some skills on music production**
+- ⚡ Fun fact **I may or may not have some skills in music production**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
