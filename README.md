@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anbapdan&label=Profile%20views&color=0ddc09&style=flat-square" alt="anbapdan" /> </p>
 
-- 🔭 I’m currently working on [COMSOLVE, a research project aiming to make Renewable Energy Communities viable by using to DLTs to buy and sell energy between prosumers](https://comsolve.pt/)
+- 🤝 I’m currently  looking for a **job**
 
 - 🎓 I hold a **BSc in Computer and Telematics Engineering**
 
 - 🎓 I just finished my **MSc in Cybersecurity** !!
 
 - 👯 I’m looking to collaborate on **everything! From backend developing to dApps and even IoT projects!**
-
-- 🤝 I’m looking for a **job**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnBapDan?tab=repositories](https://github.com/AnBapDan?tab=repositories)
 
