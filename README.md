@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">I'm an enthusiast about everything related to blockchain and DIY IoT devices. I'm also working as a graduate student researcher at IT, Aveiro</h3>
+<h3 align="center">I'm an enthusiast about everything related to Cybersecurity and pentesting!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anbapdan&label=Profile%20views&color=0ddc09&style=flat-square" alt="anbapdan" /> </p>
 
@@ -7,17 +7,13 @@
 
 - 🎓 I hold a **BSc in Computer and Telematics Engineering**
 
-- 🎓 I just finished my **MSc in Cybersecurity** !!
-
-- 👯 I’m looking to collaborate on **everything! From backend developing to dApps and even IoT projects!**
+- 🎓 I hold a **MSc in Cybersecurity** !!
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnBapDan?tab=repositories](https://github.com/AnBapDan?tab=repositories)
 
-- 💬 Ask me about **Blockchain, RECs and Backend**
+- 💬 I successfully have the OSCP!
 
 - 📫 How to reach me **dani.andrade@ua.pt**
-
-- 📄 Know about my experiences [https://europa.eu/europass/eportfolio/screen/share/401efd1e-3904-44f4-8e32-0f05e02bd0af?lang=pt](https://europa.eu/europass/eportfolio/screen/share/401efd1e-3904-44f4-8e32-0f05e02bd0af?lang=pt)
 
 - ⚡ Fun fact **I may or may not have some skills in music production**
 
